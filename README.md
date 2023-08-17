@@ -143,3 +143,18 @@ on the right info providers (TMDB tv Shows for series (Magnets) & The Movies Dat
 
 
 ### <li>- [x] RECAP OF REPO LINKS: </li>
+![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
+><details>
+>  <summary><b><u>Cliquer sur l'icone noir pour voir:</u></b></summary>
+>  
+> - 🖲️ **[Alldebrid Site (Test 2 Days)](https://alldebrid.com/register/?from=fr)**
+> - 🖲️ **[Wbmc Clone of Kodi for test to download](https://www.wonderbox.tv/wonderbox-tv-media-centre-wbmc/)**
+> - 🖲️ **[Ezmaintenanceplus for Kodi Backup](https://github.com/peno64/script.ezmaintenanceplus)**
+> - 🖲️ **[The Backup Addon for Kodi Backup](https://github.com/robweber/xbmcbackup)**
+> - 🖲️ **[Testing your WiFi speed](https://www.google.com/search?q=test+debit&client=opera&hs=NvI&sca_esv=557735838&sxsrf=AB5stBjaxgie-0j9qaBefcf4149h-2-DVQ%3A1692264558761&ei=bujdZM-KLsOXhbIPhK-p8Ao&ved=0ahUKEwjP-Y_fsOOAAxXDS0EAHYRXCq4Q4dUDCA4&uact=5&oq=test+debit&gs_lp=Egxnd3Mtd2l6LXNlcnAiCnRlc3QgZGViaXQyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGIoFGLADGEMyChAAGIoFGLADGEMyChAAGIoFGLADGEMyChAAGIoFGLADGEMyFhAuGIoFGMcBGNEDGMgDGLADGEPYAQEyFhAuGIoFGMcBGNEDGMgDGLADGEPYAQEyFhAuGIoFGMcBGNEDGMgDGLADGEPYAQEyFhAuGIoFGMcBGNEDGMgDGLADGEPYAQEyFhAuGIoFGMcBGNEDGMgDGLADGEPYAQFI9ghQAFgAcAF4AZABAJgBAKABAKoBALgBA8gBAOIDBBgAIEGIBgGQBhG6BgYIARABGAg&sclient=gws-wiz-serp)** 
+> - 🖲️ **[Website "Themoviedb" d'ou les données (Films,Series..) sont extraites](https://www.themoviedb.org/?language=frlorsque)**
+> - 🖲️  **[Addon "The Movie Database Python"](https://github.com/xbmc/metadata.themoviedb.org.python)**
+> - 🖲️ **[Addon "TMDb TV Shows"](https://github.com/xbmc/metadata.tvshows.themoviedb.org.python)**
+> - 🖲️ **[Website "Kodiapps" des Plugins Videos Kodi](https://kodiapps.com/addons-chart)**
+> - 🖲️ **[Website "Iwf1" Kodi video plugins](https://iwf1.com/kodi?page=1&sug=video)**
+></details>
