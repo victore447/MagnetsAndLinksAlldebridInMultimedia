@@ -3,6 +3,13 @@
 ![Streaming service 1](https://github.com/victore447/MagnetsAndLinksAlldebridInMultimedia/assets/48101775/0055469a-9784-44cd-aefc-ce0ff0599fde)
 
 ### <li>- [x] DESCRIPTION: </li>
-![500]
 ![27](https://github.com/victore447/MagnetsAndLinksAlldebridInMultimedia/assets/48101775/c0cb8df7-e32a-45ff-94a4-d7e44b72017b)
+
+### <li>- [x] STEP 1 (If not already done): </li>
+
+### <li>- [x] STEP 2: </li>
+
+### <li>- [x] STEP 3: </li>
+
+### <li>- [x] STEP 4: </li>
 
