@@ -18,6 +18,7 @@
  Or you have Backup Addons **[Backup](https://github.com/robweber/xbmcbackup)** & **[EzMaintenanceplus](https://github.com/peno64/script.ezmaintenanceplus)**.
  - Create a local network via your devices (Box Shiel Tv etc..) to facilitate your updates directly in your "films & Series..".
  - Have Url Uptobox/1fichier etc.. links of sites to place them in the "links" folder of Alldebrid for Films (it's for those who don't know that).
+ - 
 ![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
 ><details>
 >  <summary><b><u>Click on the black icon to see Alldebrid screenshots below:</u></b></summary>
