@@ -6,7 +6,7 @@
 ![27](https://github.com/victore447/MagnetsAndLinksAlldebridInMultimedia/assets/48101775/c0cb8df7-e32a-45ff-94a4-d7e44b72017b)
  - To be able to watch in **[Kodi](https://kodi.tv/download/)** your thousands of Films, TV Series etc. store in the Alldebrid folder without the videos Plugins **[Kodi](https://kodi.tv/download/)** which are now mostly obsolete or incompatible.
  - Ease your Hard Drive in Go & To with **[Alldebrid](https://alldebrid.fr/)** without having to download.
- - Quick m-update - Be able to watch in **[Kodi](https://kodi.tv/download/)** your thousands of Movies, TV Series etc. store in the Alldebrid folder without Plugins  videos from **[Kodi](https://kodi.tv/download/)** .
+ - Quick update local media library to watch in **[Kodi](https://kodi.tv/download/)** your thousands of Movies, TV Series etc. store in the Alldebrid folder without Plugins  videos from **[Kodi](https://kodi.tv/download/)** .
  - Ease your Hard Drive in Go & To with **[Alldebrid](https://alldebrid.fr/)** without having to download.
  - Quick media library update **[Kodi](https://kodi.tv/download/)** via "Magnets" & "Links" folders **[from Alldebrid](https://alldebrid.fr/)** etc.. without having to go to the site to configure anything.ediatheque **[Kodi](https://kodi.tv/download/)** via Folders "Magnets" & "Links  " **[d'Alldebrid](https://alldebrid.fr/)** etc. without having to go to the site to configure anything.
 
