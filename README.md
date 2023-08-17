@@ -19,6 +19,9 @@
 
 
 ### <li>- [x] STEP 1 (If not already done): </li>
+ - In Kodi go to "parameter / Interface / Click to the bottom of the page & Switch to expert mode / Then go up to Regions and change the language, Keyboard & country..
+ - Go back to parameter then go to services for authorizations to activate "/Control/Upnp/Dlna/Airplay" .
+ - Go back to settings and go to add-ons/Install from a repository/Kodi Add-on repository/Information providers/Movies information/The Movies Database Python/Configure & Change language etc...Do the same for Information from  la Tv/Tmdb Tv Shows/Configure then change the language, Player etc..
 
 ### <li>- [x] STEP 2: </li>
 
