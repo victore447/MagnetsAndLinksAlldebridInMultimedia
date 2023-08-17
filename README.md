@@ -106,7 +106,25 @@ add series to the aldebrid magnet folder online making sure the folder parsing m
 ></details>
 
 
-
 ### <li>- [x] 🎬 STEP 4: </li>
-
+- As mentioned above repeat the same procedure as step 3 but this time adding if the url of
+your Alldebrid folder For the kodi Films media library.
+- The Url Uptobox, 1fichiers etc. are to be taken from sites such as Darkino, Zone-Telechargement etc. (screenshot above in the "Requirements" section).
+- If your media library is empty (it's better) add the Alldebrid url of your account folder by going to kodi, Movies / files section / add a source..
+- ☝️Do not update the media library when kodi requests it (it Tmdb info from the Asian series "Links").
+- Before the update Then go to your "Alldebrid" folder that you have just created then a long press on
+"Links" a contextual menu opens then click on "Change the Analysis mode" and Choose "The Movies Database Python" if this is not done.
+- All you have to do is go to your Movies folder, then "Links" etc.
+- There make a long click on "Links", when the contextual menu opens you must then click on
+"search for new content". There Kodi via "The Movies Database Python" addon fetches all your online movies from Alldebrid's folder.
+- ☝️ For an update movie by movie that you added, go to your Movies that you added to the "Links" folder of Alldebrid in Kodi,
+Do a Long click on the recently added movie then a pop-up window opens and click "Analyze to Media Library" and a window opens asking
+"Enter the name of the film).☝️ Write the name of the film and its year of creation (XXX (2023) then ok (media info on themoviedb.org). See 📸 attached.
+- Another window then opens to ask whether or not to ignore locally existing information.
+I ignore them to keep my info and click yes.☝️ There Kodi via the Movies info provider "The Movies Database Python"
+retrieve the Film and Alldebrid's info by copying it. Finally, all you have to do is go to the Kodi "Films" media library to view it.
+- ☝️ You must always perform this method afterwards when you add a movie for the update of the kodi media library for each
+add movies to the "Links" folder of aldebrid online making sure the folder scan modes are
+on the right info providers (TMDB tv Shows for series (Magnets) & The Movies Database Python for movies (Links)).
+- ☝️ otherwise it's The Chinese series "links click" (2021) that loads when you do a traditional update.
 ### <li>- [x] RECAP OF REPO LINKS: </li>
