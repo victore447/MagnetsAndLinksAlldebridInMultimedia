@@ -1,4 +1,5 @@
-# 👋Create your local Kodi media library "Movies &amp; Series etc.." via the url of the Alldebrid Account Folder (Magnets and Links)
+# 👋Create your local media library **[Kodi](https://kodi.tv/download/)** "Movies & Series.." via the url of the account folder **[of Alldebrid](https:  //alldebrid.fr/)** (Magnets & links)
+
 ### <li>- [x] DESCRIPTION: </li>
  - To be able to watch in **[Kodi](https://kodi.tv/download/)** your thousands of Films, TV Series etc. store in the Alldebrid folder without the **[Kodi]( video Plugins  https://kodi.tv/download/)** .
  - Ease your Hard Drive in Go & To with **[Alldebrid](https://alldebrid.fr/)** without having to download.
