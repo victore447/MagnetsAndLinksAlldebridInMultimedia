@@ -72,6 +72,40 @@ folder (Alldebrid,Movies,Series TV). "Links" for movies and "Magnets" for Series
 ></details>
 
 ### <li>- [x] 📺 STEP 3: </li>
+- As mentioned above repeat the same procedure as step 2 but this time adding if the url of
+your Alldebrid folder For the kodi series mediatheque.
+- If your media library is empty add the Alldebrid url of your account folder by going to
+kodi,tv series,files section,add source.
+- Torrents for magnets are to be taken on sites such as yggtorrent etc. (screen capture more in the "Requirements" section).
+- ☝️Do not update the media library when kodi asks for it (it will retrieve bad Tmdb info for the "Links" series).
+- Before the update Then go to your "Alldebrid" folder that you have just created then a long press on "Magnet" a contextual menu opens then click on "Change the Analysis mode" and Choose "TMDB TV Shows" mentioned in step 2.
+- All you have to do is go to your Series Tv folder to create then magnets etc..
+In your series that you have added to the "Magnets" folder of Alldebrid online, do a long click on each series (one by one)
+then a popup window opens and click on "Analyze to Media Library" and if a window pops up asking
+"Enter the name of the tv series) Write the name of the series and its year of creation (Ex: FUBAR (2023) then ok (Source themoviedb.org). See 📸 joints.
+- Another window then opens to ask whether or not to ignore locally existing information.
+I ignore them to keep my info and click yes.☝️ There Kodi via the "TMDB TV Shows" series info provider retrieves
+the list of episodes put in the Alldebrid "Magnets" Folder by copying them. Finally, all you have to do is go to the Kodi series media library to view them.
+- ☝️ Always perform this method for kodi media library update for each
+add series to the aldebrid magnet folder online making sure the folder parsing modes are on the correct info providers (TMDB tv Shows for series (Magnets) & The Movies Database Python for movies ( Links)).
+- ☝️ otherwise it's The Chinese series "links click" (2021) that loads when you do a traditional update.
+
+![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
+><details>
+>  <summary><b><u>Click on the black icon to see Kodi screenshots below:</u></b></summary> 
+>
+>  ![1)Ajout Url Alldebrid pour Series](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/c6d26de6-5388-4208-8ad9-01fddda99aff) 
+>  ![2)Ajout source Series2](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/45643203-dcbc-4870-9f08-d1404bacd6d5)
+>  ![3)Ne pas Actualier apres l'ajout du Url pour Series](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/e2d2f4b1-6c49-43e2-bba5-df5db7e3cd77) 
+>  ![4)Mise a jours de la mediathes pour Series](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/8d7c60cd-40c5-4137-a70a-839d2a04f6bd) 
+> ![5)Mise a jours de la mediathes pour Series1](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/86a2a71c-1e42-4d5f-bba4-6aaeb6967922)
+>  ![6)Mise a jours de la mediathes pour Series2](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/459b5cbf-f06e-44bb-9df8-b03288f3e191)
+>  ![7)Mise a jour changer de mode d'analyse](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/c7f5aeed-9dda-494f-8ad8-5989ecd00324)
+>  ![8)Dossiers Videos (Alldebrid,Films,Series Tv)](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/e7cca0c4-5be7-48b6-b7a3-26e56675e343)
+>
+></details>
+
+
 
 ### <li>- [x] 🎬 STEP 4: </li>
 
