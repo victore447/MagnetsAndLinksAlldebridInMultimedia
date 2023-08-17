@@ -17,6 +17,10 @@
 ☝️ Below is the Example of the type of magnets to be added to the Alldebrid "Magnets" folder for a complete season
 
 ![Exemple Liens Magnets des Series completes à ajouté au dossier](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/80e4a002-0324-47ba-955e-6c4995f6ce55)
+
+![YGG](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/53ceebe8-f9a5-499e-87e5-6b3afead906a)
+
+![YGG1](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/2332310e-31b4-418d-b65a-f9056e9a5444)
  - Have Url Uptobox/1fichier etc.. links of sites to place them in the "links" folder of Alldebrid for Films (it's for those who don't know that).
  - Create a local network via your devices (Box Shiel Tv etc..) to facilitate your updates directly in your "films & Series..".
 
