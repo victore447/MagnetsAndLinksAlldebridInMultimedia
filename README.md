@@ -15,6 +15,7 @@
  - Have "Magnets" links to place them in the "magnets" folder of Alldebrid in order to use them for the Alldebrid series.
  - Have Url Uptobox/1fichier etc.. links of sites to place them in the "links" folder of Alldebrid for Films (it's for those who don't know that).
  - Create a local network via your devices (Box Shiel Tv etc..) to facilitate your updates directly in your "films & Series..".
+- ☝️ If your Wifi speed is low, your video sources (Movies, Series, Docs, Sports...) must not weigh more than 4 GB for smooth viewing.
 
 
 ### <li>- [x] STEP 1 (If not already done): </li>
