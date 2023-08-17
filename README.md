@@ -22,7 +22,6 @@
 ![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
 ><details>
 >  <summary><b><u>Click on the black icon to see Alldebrid screenshots below:</u></b></summary>
->  
 >  ![Liens pour Dossier Films Alldebrid](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/dfd7c5f3-9487-4213-9693-05b1d418e8b7)
 >  ![Magnets pour Dossier Series Tv](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/a31e3b57-6a41-417b-865e-3fb7df974f8a)
 ></details>
