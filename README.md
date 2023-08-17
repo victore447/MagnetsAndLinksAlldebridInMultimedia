@@ -14,7 +14,7 @@
  - Have an **[👉 Alldebrid premium account](https://alldebrid.com/offer/)** **[(👉 2 day free trial)](https://alldebrid.com/register/?from=fr)**
 - ☝️ If your Wifi speed is low, your video sources (Movies, Series, Docs, Sports...) must not weigh more than 4 GB for smooth viewing ( **[👉Test debits](https://www.google.com/search?q=test+debit&client=opera&hs=NvI&sca_esv=557735838&sxsrf=AB5stBjaxgie-0j9qaBefcf4149h-2-DVQ%3A1692264558761&ei=bujdZM-KLsOXhbIPhK-p8Ao&ved=0ahUKEwjP-Y_fsOOAAxXDS0EAHYRXCq4Q4dUDCA4&uact=5&oq=test+debit&gs_lp=Egxnd3Mtd2l6LXNlcnAiCnRlc3QgZGViaXQyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGIoFGLADGEMyChAAGIoFGLADGEMyChAAGIoFGLADGEMyChAAGIoFGLADGEMyFhAuGIoFGMcBGNEDGMgDGLADGEPYAQEyFhAuGIoFGMcBGNEDGMgDGLADGEPYAQEyFhAuGIoFGMcBGNEDGMgDGLADGEPYAQEyFhAuGIoFGMcBGNEDGMgDGLADGEPYAQEyFhAuGIoFGMcBGNEDGMgDGLADGEPYAQFI9ghQAFgAcAF4AZABAJgBAKABAKoBALgBA8gBAOIDBBgAIEGIBgGQBhG6BgYIARABGAg&sclient=gws-wiz-serp)** ).
  - Have "Magnets" links to place them in the "magnets" folder of Alldebrid in order to use them for the Alldebrid series.
- - ☝️ Below is the Example of the type of magnets to be added to the Alldebrid "Magnets" folder for a complete season
+☝️ Below is the Example of the type of magnets to be added to the Alldebrid "Magnets" folder for a complete season
 
 ![Exemple Liens Magnets des Series completes à ajouté au dossier](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/80e4a002-0324-47ba-955e-6c4995f6ce55)
  - Have Url Uptobox/1fichier etc.. links of sites to place them in the "links" folder of Alldebrid for Films (it's for those who don't know that).
