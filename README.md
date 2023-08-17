@@ -158,3 +158,5 @@ on the right info providers (TMDB tv Shows for series (Magnets) & The Movies Dat
 > - 🖲️ **[Website "Kodiapps" des Plugins Videos Kodi](https://kodiapps.com/addons-chart)**
 > - 🖲️ **[Website "Iwf1" Kodi video plugins](https://iwf1.com/kodi?page=1&sug=video)**
 ></details>
+
+### <li>- [x] 👌 Put a star if it was interesting✔️ </li>
