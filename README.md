@@ -13,6 +13,8 @@
 ### <li>- [x] REQUIREMENTS: </li>
  - Have an **[👉 Alldebrid premium account](https://alldebrid.com/offer/)** **[(👉 2 day free trial)](https://alldebrid.com/register/?from=fr)**
 - ☝️ If your Wifi speed is low, your video sources (Movies, Series, Docs, Sports...) must not weigh more than 4 GB for smooth viewing ( **[👉Test debits](https://www.google.com/search?q=test+debit&client=opera&hs=NvI&sca_esv=557735838&sxsrf=AB5stBjaxgie-0j9qaBefcf4149h-2-DVQ%3A1692264558761&ei=bujdZM-KLsOXhbIPhK-p8Ao&ved=0ahUKEwjP-Y_fsOOAAxXDS0EAHYRXCq4Q4dUDCA4&uact=5&oq=test+debit&gs_lp=Egxnd3Mtd2l6LXNlcnAiCnRlc3QgZGViaXQyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGIoFGLADGEMyChAAGIoFGLADGEMyChAAGIoFGLADGEMyChAAGIoFGLADGEMyFhAuGIoFGMcBGNEDGMgDGLADGEPYAQEyFhAuGIoFGMcBGNEDGMgDGLADGEPYAQEyFhAuGIoFGMcBGNEDGMgDGLADGEPYAQEyFhAuGIoFGMcBGNEDGMgDGLADGEPYAQEyFhAuGIoFGMcBGNEDGMgDGLADGEPYAQFI9ghQAFgAcAF4AZABAJgBAKABAKoBALgBA8gBAOIDBBgAIEGIBgGQBhG6BgYIARABGAg&sclient=gws-wiz-serp)** ).
+-  - Create a local network via your devices (Box Shiel Tv etc..) to facilitate your updates directly in your "films & Series..".
+ - Have Url Uptobox/1fichier etc.. links of sites to place them in the "links" folder of Alldebrid for Films (it's for those who don't know that).
  - Have "Magnets" links to place them in the "magnets" folder of Alldebrid in order to use them for the Alldebrid series.
 ☝️ Below is the Example of the type of magnets to be added to the Alldebrid "Magnets" folder for a complete season
 
@@ -25,8 +27,6 @@
 >  ![YGG](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/53ceebe8-f9a5-499e-87e5-6b3afead906a)
 >  ![YGG1](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/2332310e-31b4-418d-b65a-f9056e9a5444)
 ></details>
- - Have Url Uptobox/1fichier etc.. links of sites to place them in the "links" folder of Alldebrid for Films (it's for those who don't know that).
- - Create a local network via your devices (Box Shiel Tv etc..) to facilitate your updates directly in your "films & Series..".
 
 ### <li>- [x] STEP 1 (If not already done): </li>
  - In Kodi go to "parameter / Interface / Click to the bottom of the page & Switch to expert mode / Then go up to Regions and change the language, Keyboard & country..
