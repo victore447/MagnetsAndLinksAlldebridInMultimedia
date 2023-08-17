@@ -38,9 +38,9 @@
 
 
 
-### <li>- [x] STEP 2: </li>
+### <li>- [x] 📁 STEP 2: </li>
 
-### <li>- [x] STEP 3: </li>
+### <li>- [x] 📺 STEP 3: </li>
 
-### <li>- [x] STEP 4: </li>
+### <li>- [x] 🎬 STEP 4: </li>
 
