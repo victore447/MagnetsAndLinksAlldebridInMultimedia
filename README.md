@@ -10,8 +10,6 @@
  - Ease your Hard Drive in Go & To with **[Alldebrid](https://alldebrid.fr/)** without having to download.
  - Quick media library update **[Kodi](https://kodi.tv/download/)** via "Magnets" & "Links" folders **[from Alldebrid](https://alldebrid.fr/)** etc.. without having to go to the site to configure anything.ediatheque **[Kodi](https://kodi.tv/download/)** via Folders "Magnets" & "Links  " **[d'Alldebrid](https://alldebrid.fr/)** etc. without having to go to the site to configure anything.
 
-![Streaming service 1](https://github.com/victore447/MagnetsAndLinksAlldebridInMultimedia/assets/48101775/0055469a-9784-44cd-aefc-ce0ff0599fde)
-
 ### <li>- [x] REQUIREMENTS: </li>
  - Have an Alldebrid premium account.
  - Have "Magnets" links to place them in the "magnets" folder of Alldebrid in order to use them for the Alldebrid series.
