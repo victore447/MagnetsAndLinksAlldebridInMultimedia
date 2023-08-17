@@ -15,7 +15,7 @@
 - ☝️ If your Wifi speed is low, your video sources (Movies, Series, Docs, Sports...) must not weigh more than 4 GB for smooth viewing ( **[👉Test debits](https://www.google.com/search?q=test+debit&client=opera&hs=NvI&sca_esv=557735838&sxsrf=AB5stBjaxgie-0j9qaBefcf4149h-2-DVQ%3A1692264558761&ei=bujdZM-KLsOXhbIPhK-p8Ao&ved=0ahUKEwjP-Y_fsOOAAxXDS0EAHYRXCq4Q4dUDCA4&uact=5&oq=test+debit&gs_lp=Egxnd3Mtd2l6LXNlcnAiCnRlc3QgZGViaXQyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGIoFGLADGEMyChAAGIoFGLADGEMyChAAGIoFGLADGEMyChAAGIoFGLADGEMyFhAuGIoFGMcBGNEDGMgDGLADGEPYAQEyFhAuGIoFGMcBGNEDGMgDGLADGEPYAQEyFhAuGIoFGMcBGNEDGMgDGLADGEPYAQEyFhAuGIoFGMcBGNEDGMgDGLADGEPYAQEyFhAuGIoFGMcBGNEDGMgDGLADGEPYAQFI9ghQAFgAcAF4AZABAJgBAKABAKoBALgBA8gBAOIDBBgAIEGIBgGQBhG6BgYIARABGAg&sclient=gws-wiz-serp)** ).
 - For the test if you don't want to touch your installation Download the Kodi clone 👉
  **[Wbmc](https://www.wonderbox.tv/wonderbox-tv-media-centre-wbmc/)**
- Or you have Backup Addons **[Backup](https://github.com/robweber/xbmcbackup)** & **[EzMaintenanceplus](https://github.com/peno64/script.ezmaintenanceplus)*  * .
+ Or you have Backup Addons **[Backup](https://github.com/robweber/xbmcbackup)** & **[EzMaintenanceplus](https://github.com/peno64/script.ezmaintenanceplus)**.
  - Create a local network via your devices (Box Shiel Tv etc..) to facilitate your updates directly in your "films & Series..".
  - Have Url Uptobox/1fichier etc.. links of sites to place them in the "links" folder of Alldebrid for Films (it's for those who don't know that).
  - Have "Magnets" links to place them in the "magnets" folder of Alldebrid in order to use them for the Alldebrid series.
