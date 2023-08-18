@@ -21,7 +21,7 @@
 
 ![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
 ><details>
->  <summary><b><u>Click on the black icon to see Alldebrid screenshots below:</u></b></summary>
+>  <summary><b><u>📸 Click on the black icon to see Alldebrid screenshots below:</u></b></summary>
 >
 >  ![Liens pour Dossier Films Alldebrid](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/dfd7c5f3-9487-4213-9693-05b1d418e8b7)
 >  ![Magnets pour Dossier Series Tv](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/a31e3b57-6a41-417b-865e-3fb7df974f8a)
@@ -33,7 +33,7 @@
 
 ![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
 ><details>
->  <summary><b><u>Click on the black icon for More images below:</u></b></summary>
+>  <summary><b><u>📸 Click on the black icon for More images below:</u></b></summary>
 >  
 >  ![YGG](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/53ceebe8-f9a5-499e-87e5-6b3afead906a)
 >  ![YGG1](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/2332310e-31b4-418d-b65a-f9056e9a5444)
@@ -59,7 +59,7 @@ folder (Alldebrid,Movies,Series TV). "Links" for movies and "Magnets" for Series
 
 ![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
 ><details>
->  <summary><b><u>Click on the black icon to see Kodi screenshots below::</u></b></summary>
+>  <summary><b><u>📸 Click on the black icon to see Kodi screenshots below::</u></b></summary>
 >  
 >  ![1)Ajoiut Url Alldebrid](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/51970fe8-e32a-461c-8c20-d916c968842f)
 >  ![2)Ne pas Actualier apres l'ajout du Url Alldebrid](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/538c9de6-9ec3-448e-9c3f-8b164e2aec2f)
