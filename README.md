@@ -82,11 +82,12 @@ kodi,tv series,files section,add source.
 - All you have to do is go to your Series Tv folder to create then magnets etc..
 In your series that you have added to the "Magnets" folder of Alldebrid online, do a long click on each series (one by one)
 then a popup window opens and click on "Analyze to Media Library" and if a window pops up asking
-"Enter the name of the tv series) Write the name of the series and its year of creation (Ex: FUBAR (2023)) then ok ( (**[Sources Themoviedb.org](https://www.themoviedb.org/?language=frlorsque)** ). See 📸 joints.
+"Enter the name of the tv series) Write the name of the series and its year of creation (Ex: FUBAR (2023)) then ok ( (**[Sources Themoviedb.org](https://www.themoviedb.org/?language=frlorsque)** ).
 - Another window then opens to ask whether or not to ignore locally existing information.
 I ignore them to keep my info and click yes.☝️ There Kodi via the "TMDB TV Shows" series info provider retrieves
 the list of episodes put in the Alldebrid "Magnets" Folder by copying them. Finally, all you have to do is go to the Kodi series media library to view them.
 
+![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
 ><details>
 >  <summary><b><u>📸 Click on the black icon to see fotos :</u></b></summary> 
 >
@@ -107,7 +108,7 @@ add series to the aldebrid magnet folder online making sure the folder parsing m
 
 ![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
 ><details>
->  <summary><b><u>Click on the black icon to see Kodi screenshots below:</u></b></summary> 
+>  <summary><b><u>📸 Click on the black icon to see Kodi screenshots below:</u></b></summary> 
 >
 >  ![1)Ajout Url Alldebrid pour Series](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/c6d26de6-5388-4208-8ad9-01fddda99aff) 
 >  ![2)Ajout source Series2](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/45643203-dcbc-4870-9f08-d1404bacd6d5)
@@ -145,7 +146,7 @@ on the right info providers (TMDB tv Shows for series (Magnets) & The Movies Dat
 
   ![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
 ><details>
->  <summary><b><u>Click on the black icon to see Kodi screenshots below:</u></b></summary> 
+>  <summary><b><u>📸 Click on the black icon to see Kodi screenshots below:</u></b></summary> 
 >
 >   ![2)Ajoiut Url Alldebrid pour Films](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/eb1eda7c-d5b6-40fe-8124-bc3b25eeb686)
 >   ![3)Ne pas Actualier apres l'ajout du Url pour Films](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/05648992-39c6-4f44-b767-e3d417d7cbf8)
