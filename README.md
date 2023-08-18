@@ -135,7 +135,7 @@ your Alldebrid folder For the kodi Films media library.
 "search for new content". There Kodi via "The Movies Database Python" addon fetches all your online movies from Alldebrid's folder.
 - ☝️ For an update movie by movie that you added, go to your Movies that you added to the "Links" folder of Alldebrid in Kodi,
 Do a Long click on the recently added movie then a pop-up window opens and click "Analyze to Media Library" and a window opens asking
-"Enter the name of the film).☝️ Write the name of the film and its year of creation (XXX (2023)) then ok (**[media info on Themoviedb.org](https://www.themoviedb.org/?language=frlorsque)**). See 📸 attached.
+"Enter the name of the film).☝️ Write the name of the film and its year of creation (XXX (2023)) then ok (**[media info on Themoviedb.org](https://www.themoviedb.org/?language=frlorsque)**).
 - Another window then opens to ask whether or not to ignore locally existing information.
 I ignore them to keep my info and click yes.☝️ There Kodi via the Movies info provider "The Movies Database Python"
 retrieve the Film and Alldebrid's info by copying it. Finally, all you have to do is go to the Kodi "Films" media library to view it.
