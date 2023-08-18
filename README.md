@@ -139,6 +139,22 @@ Do a Long click on the recently added movie then a pop-up window opens and click
 - Another window then opens to ask whether or not to ignore locally existing information.
 I ignore them to keep my info and click yes.☝️ There Kodi via the Movies info provider "The Movies Database Python"
 retrieve the Film and Alldebrid's info by copying it. Finally, all you have to do is go to the Kodi "Films" media library to view it.
+
+![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
+><details>
+>  <summary><b><u>📸 Click on the black icon to see Kodi :</u></b></summary>
+>  
+>  ![Analyser vers la mediatheque (Films)](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/3d0f0519-f0b4-40c5-b209-5f89778c210a)
+>  ![Analyser vers la mediatheque (Films)2](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/441f414f-bbba-4d16-993b-8cbec83ccd2f)
+>  ![Analyser vers la mediatheque (Films)3](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/929833d5-a421-4917-9c9f-28ccc3bcdf1b)
+>  ![Analyser vers la mediatheque (Films)4](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/202d7385-4779-4c47-b722-ad9cbdc51602)
+>  ![Analyser vers la mediatheque (Films)5](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/b5efa728-4514-4a92-a8da-48a5eb777f9c)
+>  ![6Analyser vers la mediatheque (Films)6](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/397390c6-8c95-4716-b68c-ecc69344d54e)
+>  ![6Analyser vers la mediatheque (Films)7](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/848fe592-d2eb-4e47-acab-dbf3e2857bcc)
+>  ![6Analyser vers la mediatheque (Films)8](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/80689a55-f153-4262-bef2-479f2a172e60)
+>  ![6Analyser vers la mediatheque (Films)9](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/28984a73-ce0e-4cd5-b0e6-c9ab42db4452)
+>
+></details>
 - ☝️ You must always perform this method afterwards when you add a movie for the update of the kodi media library for each
 add movies to the "Links" folder of aldebrid online making sure the folder scan modes are
 on the right info providers (TMDB tv Shows for series (Magnets) & The Movies Database Python for movies (Links)).
