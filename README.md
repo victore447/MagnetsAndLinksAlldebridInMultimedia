@@ -86,6 +86,21 @@ then a popup window opens and click on "Analyze to Media Library" and if a windo
 - Another window then opens to ask whether or not to ignore locally existing information.
 I ignore them to keep my info and click yes.☝️ There Kodi via the "TMDB TV Shows" series info provider retrieves
 the list of episodes put in the Alldebrid "Magnets" Folder by copying them. Finally, all you have to do is go to the Kodi series media library to view them.
+
+><details>
+>  <summary><b><u>📸 Click on the black icon to see fotos :</u></b></summary> 
+>
+>  ![Analyser vers la mediatheque](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/09ddf5a6-230a-4b25-bda8-a6ba1e77b8df)
+>  ![Analyser vers la mediatheque1](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/d4d27eb1-27a4-46e5-af1c-3062f873cdb7)
+>  ![Analyser vers la mediatheque3](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/2bb360db-cb73-4d69-b6f4-d898db5fd020)
+>  ![Analyser vers la mediatheque4](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/5f5b6ae5-9eb5-4ad9-af54-b382b7e10094)
+>  ![Analyser vers la mediatheque5](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/4ddff95c-4def-4407-91e0-5551916782e1)
+>  ![Analyser vers la mediatheque6](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/20f04627-8b5b-40a0-8840-4bb4fb742110)
+>  ![Analyser vers la mediatheque7](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/ba553215-f96a-4c8b-a4e9-ba73a0f9fc15)
+>  ![Analyser vers la mediatheque8](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/9fef7561-c202-4f57-af2b-e12a6cfc222c)
+
+>
+></details>
 - ☝️ Always perform this method for kodi media library update for each
 add series to the aldebrid magnet folder online making sure the folder parsing modes are on the correct info providers (TMDB tv Shows for series (Magnets) & The Movies Database Python for movies ( Links)).
 - ☝️ otherwise it's The Chinese series "links click" (2021) that loads when you do a traditional update.
