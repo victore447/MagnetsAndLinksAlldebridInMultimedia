@@ -82,7 +82,7 @@ kodi,tv series,files section,add source.
 - All you have to do is go to your Series Tv folder to create then magnets etc..
 In your series that you have added to the "Magnets" folder of Alldebrid online, do a long click on each series (one by one)
 then a popup window opens and click on "Analyze to Media Library" and if a window pops up asking
-"Enter the name of the tv series) Write the name of the series and its year of creation (Ex: FUBAR (2023)) then ok (Source themoviedb.org). See 📸 joints.
+"Enter the name of the tv series) Write the name of the series and its year of creation (Ex: FUBAR (2023)) then ok ( (**[Sources Themoviedb.org](https://www.themoviedb.org/?language=frlorsque)** ). See 📸 joints.
 - Another window then opens to ask whether or not to ignore locally existing information.
 I ignore them to keep my info and click yes.☝️ There Kodi via the "TMDB TV Shows" series info provider retrieves
 the list of episodes put in the Alldebrid "Magnets" Folder by copying them. Finally, all you have to do is go to the Kodi series media library to view them.
@@ -119,7 +119,7 @@ your Alldebrid folder For the kodi Films media library.
 "search for new content". There Kodi via "The Movies Database Python" addon fetches all your online movies from Alldebrid's folder.
 - ☝️ For an update movie by movie that you added, go to your Movies that you added to the "Links" folder of Alldebrid in Kodi,
 Do a Long click on the recently added movie then a pop-up window opens and click "Analyze to Media Library" and a window opens asking
-"Enter the name of the film).☝️ Write the name of the film and its year of creation (XXX (2023)) then ok (media info on themoviedb.org). See 📸 attached.
+"Enter the name of the film).☝️ Write the name of the film and its year of creation (XXX (2023)) then ok (**[media info on Themoviedb.org](https://www.themoviedb.org/?language=frlorsque)**). See 📸 attached.
 - Another window then opens to ask whether or not to ignore locally existing information.
 I ignore them to keep my info and click yes.☝️ There Kodi via the Movies info provider "The Movies Database Python"
 retrieve the Film and Alldebrid's info by copying it. Finally, all you have to do is go to the Kodi "Films" media library to view it.
