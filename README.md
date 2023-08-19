@@ -191,4 +191,4 @@ on the right info providers (TMDB tv Shows for series (Magnets) & The Movies Dat
 > - 🖲️ **[Website "Iwf1" Kodi video plugins](https://iwf1.com/kodi?page=1&sug=video)**
 ></details>
 
-### <li>- [x] 👌 Put a star if it was interesting✔️ </li>
+### <li>- [x] 👌 Put a star on top if it was interesting✔️ </li>![smiley-etoile-image-animee-0164](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/dc73a5b7-e38e-4d80-9cbc-68ac5dd89826)
